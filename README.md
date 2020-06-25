@@ -15,5 +15,5 @@ Tools>Global Options...>Git/SVN
 3. Clone a repo from github.com in a local directory using RStudio
 New project>version control>git
 
-Now edited the md file locally.
+Now edited the md file
 
